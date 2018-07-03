@@ -1,0 +1,22 @@
+{
+  "name": "cryptelle-api",
+  "version": "1.0.0",
+  "description": "An API to interact with the cryptelle website since my dad refuses to make one for me to develop off...",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "Encryption"
+  ],
+  "author": "Zuri Hunter",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "libxmljs": "github:kbiedrzycki/libxmljs#update-to-node-10",
+    "nvm": "0.0.4",
+    "request": "^2.87.0"
+  }
+}
