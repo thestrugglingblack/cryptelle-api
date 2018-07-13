@@ -15,8 +15,10 @@
   "dependencies": {
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
+    "form-data": "^2.3.2",
     "libxmljs": "github:kbiedrzycki/libxmljs#update-to-node-10",
     "nvm": "0.0.4",
-    "request": "^2.87.0"
+    "request": "^2.87.0",
+    "xhr2": "^0.1.4"
   }
 }
